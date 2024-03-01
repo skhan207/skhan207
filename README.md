@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Microsoft Azure: SIEM & SOAR HoneyPot Project</b>
-  - [Microsoft Azure: SIEM & SOAR](https://github.com/skhan207/skhan207/tree/main)
+  - [Microsoft Azure: SIEM & SOAR](https://github.com/skhan207/skhan207-)
 
 
 
