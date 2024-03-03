@@ -6,6 +6,8 @@
   - [Microsoft Azure: SIEM & SOAR](https://github.com/skhan207/skhan207-)
 - <b>Active Directory Home Lab</b>
   - [Active Directory](https://github.com/skhan207/skhan207-3)
+  - <b>Nessus Essential Vulnerability Management Project</b>
+  - [Nessus Essential Vulnerability Management]
 
 
 
