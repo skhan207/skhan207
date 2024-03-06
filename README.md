@@ -8,6 +8,9 @@
   - [Active Directory](https://github.com/skhan207/skhan207-3)
 - <b>Nessus Essential Vulnerability Management Project</b>
   - [Nessus Essential Vulnerability Management](https://github.com/skhan207/scan)
+- <b>Automation of Pentesting Port Scanner Project</b>
+  - [Automation of Port Scanning Pentesting Project]() 
+
 
 
 
